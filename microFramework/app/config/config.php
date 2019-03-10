@@ -1,10 +1,10 @@
 <?php
     //configuración de acceso a la base de datos
     //credenciales de acceso
-    define('DB_HOST','72.167.233.102');
-    define('DB_USER','Drivermetric01');
-    define('DB_PASS','Driv%metc01');
-    define('DB_DATABASE','Drivermetric01');
+    define('DB_HOST','host de la base de datos');
+    define('DB_USER','usuario');
+    define('DB_PASS','password');
+    define('DB_DATABASE','nombre de la base de datos');
 
     //ruta de la aplicación
     //define para crear constantes y __FILE__ estraer ruta completa
